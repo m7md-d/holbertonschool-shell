@@ -1,0 +1,1 @@
+This is shell commands for init files, variables and expansions
